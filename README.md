@@ -53,7 +53,7 @@ Navigate to [Morse Code Translator](https://morsecode.world/international/decode
 Upload `Hola.wav` to the website. The tool analyzes the audio waveform, detects the beep patterns, and automatically decodes the Morse code sequence.
 
 The decoded output reveals:
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/6b6cc4c7-5433-4e9c-9463-196cb3a372f3" />
+<img width="1001" height="515" alt="image" src="https://github.com/user-attachments/assets/d29d2247-08ef-46fe-9f7a-c3ee3b303ad8" />
 
 ```
 guvf vf gur frperg zrffntr rire
