@@ -6,8 +6,8 @@ size='5'>Sound of Secrets</font>
 17<sup>th</sup> November 2025  
 Prepared By: Aryan  
 Challenge Author(s): Aryan  
-Difficulty: <font color=orange>Medium</font>  
-Classification: Official  
+&nbsp;&nbsp;&nbsp;Difficulty: <font color=orange>Medium</font>  
+&nbsp;&nbsp;&nbsp;Classification: Official  
 
 ## Synopsis
 
@@ -103,4 +103,5 @@ hackcubes{this_is_the_secret_message_ever}
 - **[Morse Code Translator](https://morsecode.world/international/translator.html)** - Audio to Morse code conversion
 
 - **[CyberChef](https://gchq.github.io/CyberChef/)** - ROT13 decryption
+
 
