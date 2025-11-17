@@ -1,7 +1,7 @@
 ![img](assets/banner.jpg)
 
 <img src='assets/logo.jpg' style='zoom: 200%;' align=left /><font 
-size='7'>Sound of Secrets</font>
+size='15'>Sound of Secrets</font>
 
 17<sup>th</sup> November 2025  
 Prepared By: Aryan  
@@ -103,6 +103,7 @@ hackcubes{this_is_the_secret_message_ever}
 - **[Morse Code Translator](https://morsecode.world/international/translator.html)** - Audio to Morse code conversion
 
 - **[CyberChef](https://gchq.github.io/CyberChef/)** - ROT13 decryption
+
 
 
 
