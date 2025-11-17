@@ -48,11 +48,12 @@ Hola.wav - Audio file containing the hidden Morse code message
 
 ### Step 1: Morse Code Extraction from Audio
 
-Navigate to [Morse Code Translator](https://morsecode.world/international/translator.html). This tool supports direct audio file upload and automatic Morse code detection.
+Navigate to [Morse Code Translator](https://morsecode.world/international/decoder/audio-decoder-adaptive.html). This tool supports direct audio file upload and automatic Morse code detection.
 
 Upload `Hola.wav` to the website. The tool analyzes the audio waveform, detects the beep patterns, and automatically decodes the Morse code sequence.
 
 The decoded output reveals:
+<img width="995" height="589" alt="image" src="https://github.com/user-attachments/assets/89e6886a-d9dc-4d97-8e1c-2bb7cd42c670" />
 
 ```
 guvf vf gur frperg zrffntr rire
@@ -103,6 +104,7 @@ hackcubes{this_is_the_secret_message_ever}
 - **[Morse Code Translator](https://morsecode.world/international/translator.html)** - Audio to Morse code conversion
 
 - **[CyberChef](https://gchq.github.io/CyberChef/)** - ROT13 decryption
+
 
 
 
