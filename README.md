@@ -56,24 +56,26 @@ The decoded output reveals:
 <img width="995" height="510" alt="image" src="https://github.com/user-attachments/assets/d29d2247-08ef-46fe-9f7a-c3ee3b303ad8" />
 
 ```
-guvf vf gur frperg zrffntr rire
+GUVF VF GUR FRPERG ZRFFNTR RIRE
 ```
 
 ### Step 2: Cipher Recognition and Decryption
 
-The decoded text `guvf vf gur frperg zrffntr rire` doesn't appear to be valid English, but the pattern suggests a substitution cipher. The text structure and word lengths hint at ROT13 encoding—a simple Caesar cipher with a 13-letter shift.
+The decoded text `GUVF VF GUR FRPERG ZRFFNTR RIRE` doesn't appear to be valid English, but the pattern suggests a substitution cipher. The text structure and word lengths hint at ROT13 encoding—a simple Caesar cipher with a 13-letter shift.
 
 Using [CyberChef](https://gchq.github.io/CyberChef/), apply the ROT13 operation:
 
-**Input:** `guvf vf gur frperg zrffntr rire`  
-**Output:** `this is the secret message ever`
+**Input:** `GUVF VF GUR FRPERG ZRFFNTR RIRE`  
+**Output:** `THIS_IS_THE_SECRET_MESSAGE_EVER`
 
 ### Step 3: Flag Construction
 
 With the plaintext message revealed, construct the flag according to the standard CTF format:
 
+<img width="995" height="510" alt="image" src="https://github.com/user-attachments/assets/7a62a8d4-94b8-495e-929e-03c422929de6" />
+
 ```
-hackcubes{this_is_the_secret_message_ever}
+hackcubes{THIS_IS_THE_SECRET_MESSAGE_EVER}
 ```
 
 ***
@@ -94,7 +96,7 @@ The challenge reinforced the importance of leveraging online tools and recognizi
 ## Flag
 
 ```
-hackcubes{this_is_the_secret_message_ever}
+hackcubes{THIS_IS_THE_SECRET_MESSAGE_EVER}
 ```
 
 ***
@@ -104,14 +106,3 @@ hackcubes{this_is_the_secret_message_ever}
 - **[Morse Code Translator](https://morsecode.world/international/translator.html)** - Audio to Morse code conversion
 
 - **[CyberChef](https://gchq.github.io/CyberChef/)** - ROT13 decryption
-
-
-
-
-
-
-
-
-
-
-
