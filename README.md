@@ -53,7 +53,7 @@ Navigate to [Morse Code Translator](https://morsecode.world/international/decode
 Upload `Hola.wav` to the website. The tool analyzes the audio waveform, detects the beep patterns, and automatically decodes the Morse code sequence.
 
 The decoded output reveals:
-<img width="995" height="589" alt="image" src="https://github.com/user-attachments/assets/89e6886a-d9dc-4d97-8e1c-2bb7cd42c670" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/6b6cc4c7-5433-4e9c-9463-196cb3a372f3" />
 
 ```
 guvf vf gur frperg zrffntr rire
@@ -104,6 +104,7 @@ hackcubes{this_is_the_secret_message_ever}
 - **[Morse Code Translator](https://morsecode.world/international/translator.html)** - Audio to Morse code conversion
 
 - **[CyberChef](https://gchq.github.io/CyberChef/)** - ROT13 decryption
+
 
 
 
